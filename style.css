@@ -58,3 +58,21 @@ p {
 li {
     margin-bottom: 8px;
 }
+
+.project-image {
+    width: 100%;
+    max-width: 800px;
+    display: block;
+    margin: 25px auto;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+}
+
+.caption {
+    text-align: center;
+    color: #94a3b8;
+    font-size: 14px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+    font-style: italic;
+}
