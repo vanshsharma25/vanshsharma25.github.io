@@ -60,9 +60,10 @@ li {
 }
 
 .project-image {
+    display: block;
     width: 100%;
     max-width: 800px;
-    display: block;
+    height: auto;
     margin: 25px auto;
     border-radius: 12px;
     box-shadow: 0 8px 20px rgba(0,0,0,0.35);
